@@ -1,4 +1,4 @@
-# arenum-test-task111
+# arenum-test-task
 
 ## Project setup
 ```
