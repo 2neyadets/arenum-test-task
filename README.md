@@ -2,23 +2,20 @@
 
 ## Project setup
 ```
-yarn install
+yarn
+```
+###### or
+```
+npm i
 ```
 
 ### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
+###### or
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### [Open](http://localhost:8080) App on `localhost:8080`
